@@ -18,5 +18,5 @@
 .gallery-image:hover {
   transform: scale3d(1.03, 1.03, 1);
   transition: transform 0.3s ease;
-  cursor: url("./svg/bxs_hand-down.png"), pointer;
+  cursor: url("/svg/bxs_hand-down.png"), pointer;
 }
